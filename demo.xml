@@ -1,35 +1,84 @@
 <?xml version="1.0"?>
 <?xml-stylesheet type="text/xsl" href="demo.xsl"?>
 <root>
-  <env>
-    <domain>local</domain>
-  </env>
-  <p>
-    <title>demo page</title>
-    <desc>this is deme page</desc>
-    <owner>openxsl</owner>
-    <icon>//oxm1.cc/img/app_default.png</icon>
-  </p>
-  <data>
+    <env>
+        <domain>local</domain>
+    </env>
+    <p>
+        <title>demo page</title>
+        <desc>this is deme page</desc>
+        <owner>openxsl</owner>
+        <icon>//oxm1.cc/img/app_default.png</icon>
+    </p>
+    <data>
         <table-menu>
-        <i>
-            <icon>
-                //oxm1.cc/img/fox.jpg
-            </icon>
-            <title>
-                car
-            </title>
-            <tag>
-                light-weight mobilephone
-            </tag>
-            <color>
-                car
-            </color>
-            <href>
-                //oxm1.cc/img/fox.jpg
-            </href>
-        </i>
-    </table-menu>
-  </data>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2ajlp3xjuTizqnxo5yRz0jyF8cg.jpg</icon>
+                <title>
+                    &lt;b style="color:#8b95fe;"&gt;1元抢机票&lt;/b&gt;&lt;br/&gt;
+                    全国任意飞
+                </title>
+                <tag>
+                    100飞行基金
+                </tag>
+                <color>#8b95fe</color>
+                <href>
+                    //oxm1.cc/img/fox.jpg
+                </href>
+            </i>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2ajlp3yfjTizqnxna9R9o5fZ575.jpg</icon>
+                <title>
+                    日本往返999
+                </title>
+                <tag>
+                    特价超人
+                </tag>
+                <color>#ff0000</color>
+                <href>
+                    //oxm1.cc/img/fox.jpg
+                </href>
+            </i>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2ajlp3yyvTizqnxmqxR2ye1A4je.jpg</icon>
+                <title>
+                    明星同款潮品
+                </title>
+                <tag>
+                    超值19元起
+                </tag>
+                <color>#008af6</color>
+                <href>
+                    //oxm1.cc/img/fox.jpg
+                </href>
+            </i>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2ajlp3zr8TizqnxlykR4v93W4r9.jpg</icon>
+                <title>
+                    签到领积分
+                </title>
+                <tag>
+                    1元抢手机
+                </tag>
+                <color>#ff0058</color>
+                <href>
+                    //oxm1.cc/img/fox.jpg
+                </href>
+            </i>
+            <i>
+                <icon>http://i.oxm1.cc/uploads/git/wurui/img/2ajlp3xyiTizqnxnraRa61vN4vm.jpg</icon>
+                <title>
+                    领券中心
+                </title>
+                <tag>
+                    抢今日好券
+                </tag>
+                <color>#53d6c7</color>
+                <href>
+                    //oxm1.cc/img/fox.jpg
+                </href>
+            </i>
+        </table-menu>
+    </data>
 
 </root>
