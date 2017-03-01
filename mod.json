@@ -1,0 +1,6 @@
+{
+  "name": "menu-table",
+  "version": "1.0.0",
+  "apiDependencies": ["table-menu"]
+}
+
